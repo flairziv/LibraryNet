@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/backups/library-20250102205509.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backups/library-20250102210009.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backups/library-20250103093731.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/config/backup.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/config/restore.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/AdminController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/BookController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/BookTypeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/BorrowController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/PageQueryController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/ReaderController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/controller/ReaderTypeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/AdminDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/BookDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/BookTypeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/BorrowDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/DataBaseDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/ReaderDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/dao/ReaderTypeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/Administrator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/BookType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/Borrow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/Reader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/ReaderType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/model/System.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/BackupScheduler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/DateUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/InputLimit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/MD5Utils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/PubJdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/util/TableUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/LoginView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageBook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageBookType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageBorrowInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageReaderType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageSuper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/ManageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/UserBook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/UserMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/UserReturn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/library/view/UserView.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
